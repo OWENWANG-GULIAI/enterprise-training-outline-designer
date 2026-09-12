@@ -16,7 +16,7 @@
 将本仓库克隆或复制到 Codex Skills 目录：
 
 ```powershell
-git clone https://github.com/<your-account>/enterprise-training-outline-designer.git "$env:CODEX_HOME\skills\enterprise-training-outline-designer"
+git clone https://github.com/OWENWANG-GULIAI/enterprise-training-outline-designer.git "$env:CODEX_HOME\skills\enterprise-training-outline-designer"
 ```
 
 如果未设置 `CODEX_HOME`，Windows 默认目录通常为：
